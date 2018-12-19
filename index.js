@@ -3,6 +3,7 @@ let video = document.getElementsByClassName("video")[0];
 function play(){
     video.play();
 }
+
 function pause(){
     video.pause();
 }
