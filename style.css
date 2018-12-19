@@ -1,0 +1,16 @@
+.video{
+    width: 540px;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 250px;
+}
+.button{
+    font-size: 15px;
+}
+.buttons{
+    margin-left: 325px;
+}
+
+body{
+    background-color: cadetblue !important;
+}
